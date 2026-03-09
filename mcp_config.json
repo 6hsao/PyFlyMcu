@@ -18,6 +18,14 @@
         "GITHUB_PERSONAL_ACCESS_TOKEN": "YOUR_GITHUB_TOKEN_HERE"
       }
     },
+    "git": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-git",
+        "D:\\trea_code\\Upper Computer"
+      ]
+    },
     "Desktop Commander": {
       "command": "npx",
       "args": [
